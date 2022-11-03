@@ -1,0 +1,17 @@
+package L03Inheritance.exercise.P05Restaurant;
+
+import java.math.BigDecimal;
+
+public class Beverage extends Product{
+
+    private double milliliters;
+
+    public double getMilliliters() {
+        return milliliters;
+    }
+
+    public Beverage(String name, BigDecimal price, double milliliters) {
+        super(name, price);
+        this.milliliters = milliliters;
+    }
+}
