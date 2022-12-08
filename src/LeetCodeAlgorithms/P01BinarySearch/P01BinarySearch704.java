@@ -8,6 +8,8 @@ public class P01BinarySearch704 {
 
         System.out.println(result1);
         System.out.println(result2);
+
+        System.out.println(Integer.parseInt("a"));
     }
 
     public static int search(int[] nums, int target) {
