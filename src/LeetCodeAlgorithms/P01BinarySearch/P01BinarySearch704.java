@@ -1,4 +1,4 @@
-package LeetCodeAlgorithms;
+package LeetCodeAlgorithms.P01BinarySearch;
 
 public class P01BinarySearch704 {
     public static void main(String[] args) {
