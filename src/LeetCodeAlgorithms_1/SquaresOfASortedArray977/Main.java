@@ -15,7 +15,8 @@ public class Main {
 
         // Brute force
 
-        /*
+        /*a
+
         for (int i = 0; i < nums.length; i++) {
             nums[i] = nums[i] * nums[i];
         }
