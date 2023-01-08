@@ -7,7 +7,9 @@ public class Main {
     public static void main(String[] args) {
 
         int[] array = {-4,-1,0,3,10};
+
         int[] result = sortedSquares(array);
+
         Arrays.stream(result).forEach(System.out::println);
     }
 
