@@ -14,6 +14,7 @@ public class Main {
     public static int[] Solution(int[] numbers, int target) {
         int leftPoint = 0;
 
+
         int rightPoint = numbers.length - 1;
 
         while (leftPoint != rightPoint) {
